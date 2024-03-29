@@ -1,0 +1,4 @@
+enum DiscountMode {
+	Cash,
+	Factor
+};
